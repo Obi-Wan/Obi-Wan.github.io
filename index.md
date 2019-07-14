@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Homepage
+tagline: Nicola Viganò
 ---
 
 ## Short biography
