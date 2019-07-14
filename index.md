@@ -1,15 +1,16 @@
 ---
+layout: default
 title: Homepage
 tagline: Nicola Viganò
 ---
 
 ## Short biography
 
-I first obtained my B.Sc in Computer Science in 2008, and then I obtained my M.Sc in Physics in 2011, both at Politecnico di Milano (Milan, Italy).
-Having done my internship in the Data Analysis Unit (DAU) at the European Synchrotron Radiation Facility (ESRF, Grenoble, France), I decided to continue with a joint Ph.D between the Institut National des Science Appliquées (INSA, Lyon, France) and Visionlab (University of Antwerp, Belgium), located on ID11 at the ESRF, under the supervision of Wolfgang Ludwig and K. Joost Batenburg.
-I obtained my Ph.D in November 2015, and worked for a few more months as a Post-doc always on ID11 at the ESRF.
-During my Ph.D I was also teaching for one year and a half at Univerité Joseph Fourier (UJF, Grenoble, France).
-From July 2016 until March 2019 I was a Post-doc in the Computational Imaging (CI) group at the Centrum Wiskunde & Informatica (CWI).
+I first obtained my B.Sc in Computer Science in 2008, and then I obtained my M.Sc in Physics in 2011, both at Politecnico di Milano (Milan, Italy).  
+Having done my internship in the Data Analysis Unit (DAU) at the European Synchrotron Radiation Facility (ESRF, Grenoble, France), I decided to continue with a joint Ph.D between the Institut National des Science Appliquées (INSA, Lyon, France) and Visionlab (University of Antwerp, Belgium), located on ID11 at the ESRF, under the supervision of Wolfgang Ludwig and K. Joost Batenburg.  
+I obtained my Ph.D in November 2015, and worked for a few more months as a Post-doc always on ID11 at the ESRF.  
+During my Ph.D I was also teaching for one year and a half at Univerité Joseph Fourier (UJF, Grenoble, France).  
+From July 2016 until March 2019 I was a Post-doc in the Computational Imaging (CI) group at the Centrum Wiskunde & Informatica (CWI).  
 I am now a Scientist in the Experiment Division (EXPD) at the ESRF, since April 2019.
 
 ## Selected publications
