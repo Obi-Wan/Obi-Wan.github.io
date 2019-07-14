@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## Short biography
 
 I first obtained my B.Sc in Computer Science in 2008, and then I obtained my M.Sc in Physics in 2011, both at Politecnico di Milano (Milan, Italy).
