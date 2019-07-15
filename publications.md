@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: complete
+title: Publications
 ---
 
 ## Links

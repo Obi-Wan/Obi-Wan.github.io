@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: complete
 title: Homepage
 tagline: Nicola Viganò
 ---
