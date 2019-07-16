@@ -1,5 +1,5 @@
 ---
-layout: complete
+layout: default
 title: Software
 ---
 
@@ -13,4 +13,10 @@ Documentation: [https://cicwi.github.io/plenoptomos](https://cicwi.github.io/ple
 
 ## dct
 
+Diffraction Contrast Tomography (DCT) reconstruction software.
+It provides a set of matlab functions and GUIs that allow to ingest, process and reconstruct DCT scans (mainly acquired at ESRF - The European Synchrotron).  
+I started contributing to the DCT code in Nov 2011, as part of my PhD project, founded by the French research agency ANR (ANR 2010 BLAN 0935).
+My most significant contributions are represented by the 6D grain reconstruction algorithms and code.
+
+Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
