@@ -20,3 +20,13 @@ My most significant contributions are represented by the 6D grain reconstruction
 
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
+## freeart
+
+FreeART is a tomographic reconstruction library leveraging Algebraic Reconstruction Technique (ART), for the reconstuction of absorption and induced emission sinograms (XRD-CT and XRF-CT).
+Freeart core is written in C++, but a python interface is also provided.
+
+I bootstrapped FreeART in Oct 2010, as part of my MSc internship at ESRF, and supervised the developments for the following few years.
+
+Project page: [https://gitlab.esrf.fr/freeart/freeart](https://gitlab.esrf.fr/freeart/freeart)  
+Documentation: [http://www.edna-site.org/pub/doc/freeart/latest/index.html](http://www.edna-site.org/pub/doc/freeart/latest/index.html)  
+
