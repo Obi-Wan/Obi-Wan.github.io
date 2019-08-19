@@ -20,6 +20,18 @@ My most significant contributions are represented by the 6D grain reconstruction
 
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
+## PyRMLSeg
+
+A Python package that implements relaxed multi-levelset segmentation, with tomographically consistent refinement.
+
+It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here:
+
+* H. Der Sarkissian, **N. Viganò**, and K. J. Batenburg, “A Data Consistent Variational Segmentation Approach Suitable for Real-time Tomography,” Fundam. Informaticae, vol. 163, pp. 1–20, 2018.  
+[https://doi.org/10.3233/FI-2018-1729](https://doi.org/10.3233/FI-2018-1729)
+
+Project page: [https://github.com/cicwi/PyRMLSeg](https://github.com/cicwi/PyRMLSeg)  
+Documentation: [https://cicwi.github.io/PyRMLSeg](https://cicwi.github.io/PyRMLSeg)  
+
 ## freeart
 
 FreeART is a tomographic reconstruction library leveraging Algebraic Reconstruction Technique (ART), for the reconstuction of absorption and induced emission sinograms (XRD-CT and XRF-CT).
