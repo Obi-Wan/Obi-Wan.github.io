@@ -20,6 +20,18 @@ My most significant contributions are represented by the 6D grain reconstruction
 
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
+## PyCorrectedEmissionCT
+
+Physically corrected projectors for X-ray induced emission CT.
+
+It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here:
+
+* **N. Viganò** and V. A. Solé, “Physically corrected forward operators for induced emission tomography: a simulation study,” Meas. Sci. Technol., no. Advanced X-Ray Tomography, pp. 1–26, Nov. 2017.  
+[https://doi.org/10.1088/1361-6501/aa9d54](https://doi.org/10.1088/1361-6501/aa9d54)
+
+Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
+Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
+
 ## PyRMLSeg
 
 A Python package that implements relaxed multi-levelset segmentation, with tomographically consistent refinement.

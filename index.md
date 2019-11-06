@@ -6,11 +6,18 @@ tagline: Nicola Viganò
 
 ## Short biography
 
+<table style="width:100%; border: 0px solid black;">
+  <tr>
+    <th style="text-align: left;">
 I first obtained my B.Sc in Computer Science in 2008, and then I obtained my M.Sc in Physics in 2011, both at Politecnico di Milano (Milan, Italy).  
 Having done my internship in the Data Analysis Unit (DAU) at the European Synchrotron Radiation Facility (ESRF, Grenoble, France), I decided to continue with a joint Ph.D between the Institut National des Science Appliquées (INSA, Lyon, France) and Visionlab (University of Antwerp, Belgium), located on ID11 at the ESRF, under the supervision of Wolfgang Ludwig and K. Joost Batenburg.  
 I obtained my Ph.D in November 2015, and worked for a few more months as a Post-doc always on ID11 at the ESRF.
 During my Ph.D I was also teaching for one year and a half at Univerité Joseph Fourier (UJF, Grenoble, France).
-
+    </th>
+    <th style="padding-left: 20px"><img src="/assets/images/pic_lr.jpg" style="width: 1500px" alt=""></th>
+  </tr>
+</table>
+<br />
 From July 2016 until March 2019 I was a Post-doc in the Computational Imaging (CI) group at the Centrum Wiskunde & Informatica (CWI).  
 I have now a Scientist position in the Experiment Division (EXPD) at the ESRF, since April 2019.
 
@@ -27,16 +34,3 @@ I have now a Scientist position in the Experiment Division (EXPD) at the ESRF, s
 * **N. Viganò** and V. A. Solé, “Physically corrected forward operators for induced emission tomography: a simulation study,” Meas. Sci. Technol., no. Advanced X-Ray Tomography, pp. 1–26, Nov. 2017.  
 [https://doi.org/10.1088/1361-6501/aa9d54](https://doi.org/10.1088/1361-6501/aa9d54)
 
-
-## Contact Information
-
-	Name:
-		Nicola R. Viganò
-	Affiliation:
-		Scientist
-		ESRF - The European Synchrotron
-		71, av. des Martyrs
-		38000 Grenoble
-		France
-	Email:
-		nicola.vigano <at> esrf.fr
