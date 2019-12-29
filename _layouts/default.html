@@ -41,8 +41,14 @@
         <aside id="sidebar">
           <h2>Site Pages</h2>
           <nav>
+            <style>
+            aside a.button {
+             margin-top: 5px;
+             margin-bottom: 5px;
+            }
+            </style>
             {% for item in site.data.navigation %}
-              <a href="{{ item.link }}" {% if page.url == item.link %}style="color: white;"{% else %}style="color: #9ddcff"{% endif %} class="button">
+              <a href="{{ item.link }}" {% if page.url == item.link %}style="color: white;"{% else %}style="color: #9ddcff;"{% endif %} class="button">
                 {{ item.name }}
               </a>
             {% endfor %}
