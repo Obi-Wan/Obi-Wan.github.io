@@ -6,6 +6,7 @@ title: Publications
 ## Links
 
 * ORCID: [0000-0003-1704-5574](https://orcid.org/0000-0003-1704-5574)  
+* Web of Science ID: [T-4608-2019](https://publons.com/researcher/T-4608-2019/)  
 * Researchgate: [profile](https://www.researchgate.net/profile/Nicola_Vigano)
 * Google scholar: [profile](https://scholar.google.com/citations?user=qv5XoaYAAAAJ)
 
