@@ -1,12 +1,12 @@
 ---
 layout: post
-title: plenoptomos v0.1.0 Released!
-date: 2019-03-25 12:00:00 -0000
+title: plenoptomos v0.1.1 Released!
+date: 2019-12-12 12:00:00 -0000
 categories: [releases, plenoptomos]
 tags: [tomography, plenoptic imaging, light-field]
 
 p_name: "plenoptomos"
-p_vers: "0.1.0"
+p_vers: "0.1.1"
 p_owner: "cicwi"
 ---
 
