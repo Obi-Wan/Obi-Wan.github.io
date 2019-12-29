@@ -4,6 +4,7 @@ title: Software
 ---
 
 ## plenoptomos
+[![DOI](https://zenodo.org/badge/176960959.svg)](https://zenodo.org/badge/latestdoi/176960959)
 
 Plenoptic imaging reconstruction tools, developed in the context of the VOXEL project, part of the European Union's Horizon 2020 research and innovation programme (VOXEL H2020-FETOPEN-2014-2015-RIA GA 665207).  
 It provides a Python package that allows to read and manipulate light-field images
@@ -21,6 +22,7 @@ My most significant contributions are represented by the 6D grain reconstruction
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
 ## PyCorrectedEmissionCT
+[![DOI](https://zenodo.org/badge/218092017.svg)](https://zenodo.org/badge/latestdoi/218092017)
 
 Physically corrected projectors for X-ray induced emission CT.
 
