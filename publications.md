@@ -14,6 +14,10 @@ title: Publications
 
 ### International peer reviewed journals
 
+**2020**
+* C. Gramaccioni, Y. Yang, A. Pacureanu, **N. Viganò**, A. Procopio, P. Valenti, L. Rosa, F. Berlutti, S. Bohic, and P. Cloetens, “Cryo-nanoimaging of Single Human Macrophage Cells: 3D Structural and Chemical Quantification,” Anal. Chem., vol. 92, n. 7, p. 4814-4819, Mar. 2020.  
+[https://doi.org/10.1021/acs.analchem.9b04096](https://doi.org/10.1021/acs.analchem.9b04096)
+
 **2019**
 * **N. Viganò**, P. M. Gil, C. Herzog, O. de la Rochefoucauld, R. van Liere, and K. J. Batenburg, “Advanced light-field refocusing through tomographic modeling of the photographed scene,” Opt. Express, vol. 27, no. 6, p. 7834, Mar. 2019.  
 [https://doi.org/10.1364/OE.26.022574](https://doi.org/10.1364/OE.26.022574)
