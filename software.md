@@ -39,6 +39,15 @@ It contains the code used for the following paper, which also provides a mathema
 Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
 Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
 
+## Nabu
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Pipeline](https://gitlab.esrf.fr/tomotools/nabu/badges/master/pipeline.svg)
+
+The tomography data processing software for the ESRF-EBS upgrade.
+
+Project page: [https://gitlab.esrf.fr/tomotools/nabu](https://gitlab.esrf.fr/tomotools/nabu)  
+Documentation: [https://tomotools.gitlab-pages.esrf.fr/nabu/](https://tomotools.gitlab-pages.esrf.fr/nabu/)
+
 ## PyRMLSeg
 ![License](https://img.shields.io/github/license/cicwi/PyRMLSeg)
 
