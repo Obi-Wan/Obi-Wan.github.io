@@ -15,6 +15,9 @@ title: Publications
 ### International peer reviewed journals
 
 **2020**
+* **N. Viganò** and W. Ludwig, “X-ray orientation microscopy using topo-tomography and multi-mode diffraction contrast tomography,” Curr. Opin. Solid State Mater. Sci., vol. 24, no. 4, p. 100832, Aug. 2020.  
+[https://doi.org/10.1016/j.cossms.2020.100832](https://doi.org/10.1016/j.cossms.2020.100832)
+
 * C. Gramaccioni, Y. Yang, A. Pacureanu, **N. Viganò**, A. Procopio, P. Valenti, L. Rosa, F. Berlutti, S. Bohic, and P. Cloetens, “Cryo-nanoimaging of Single Human Macrophage Cells: 3D Structural and Chemical Quantification,” Anal. Chem., vol. 92, n. 7, p. 4814-4819, Mar. 2020.  
 [https://doi.org/10.1021/acs.analchem.9b04096](https://doi.org/10.1021/acs.analchem.9b04096)
 
