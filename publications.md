@@ -10,13 +10,21 @@ title: Publications
 * Researchgate: [profile](https://www.researchgate.net/profile/Nicola_Vigano)
 * Google scholar: [profile](https://scholar.google.com/citations?user=qv5XoaYAAAAJ)
 
+## Complete list of published datasets
+
+**2020**
+* **N. R. Viganò** and S. B. Coban, “X-ray light-field - Small branch.” 2020.  
+[https://doi.org/10.5281/zenodo.4017593](https://doi.org/10.5281/zenodo.4017593)
+* **N. R. Viganò**, F. Lucka, and S. B. Coban, “X-ray light-field - Gel bubbles.” 2020.  
+[https://doi.org/10.5281/zenodo.4017719](https://doi.org/10.5281/zenodo.4017719)
+
 ## Complete list of publications
 
 ### International peer reviewed journals
 
 **2020**
-* **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S.B. Coban, R. van Liere, M. Fajardo, P. Zeitoun and K.J. Batenburg, “Emulation of X-ray Light-Field Cameras,” J. Imaging 2020, 6, 138.  
-[https://doi.org/10.3390/jimaging6120138](10.3390/jimaging6120138)
+* **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S.B. Coban, R. van Liere, M. Fajardo, P. Zeitoun and K.J. Batenburg, “Emulation of X-ray Light-Field Cameras,” J. Imaging, vol. 6, no. 12, p. 15, Dec. 2020.  
+[https://doi.org/10.3390/jimaging6120138](https://doi.org/10.3390/jimaging6120138)
 * **N. Viganò** and W. Ludwig, “X-ray orientation microscopy using topo-tomography and multi-mode diffraction contrast tomography,” Curr. Opin. Solid State Mater. Sci., vol. 24, no. 4, p. 100832, Aug. 2020.  
 [https://doi.org/10.1016/j.cossms.2020.100832](https://doi.org/10.1016/j.cossms.2020.100832)
 * C. Gramaccioni, Y. Yang, A. Pacureanu, **N. Viganò**, A. Procopio, P. Valenti, L. Rosa, F. Berlutti, S. Bohic, and P. Cloetens, “Cryo-nanoimaging of Single Human Macrophage Cells: 3D Structural and Chemical Quantification,” Anal. Chem., vol. 92, n. 7, p. 4814-4819, Mar. 2020.  
@@ -49,6 +57,7 @@ title: Publications
 **2013**
 * P. Reischig, A. King, L. Nervo, **N. Viganò**, Y. Guilhem, W. J. Palenstijn, K. J. Batenburg, M. Preuss, and W. Ludwig, “Advances in X-ray diffraction contrast tomography: flexibility in the setup geometry and application to multiphase materials,” J. Appl. Crystallogr., vol. 46, no. 2, pp. 297–311, Mar. 2013.  
 [https://doi.org/10.1107/S0021889813002604](https://doi.org/10.1107/S0021889813002604)
+NOTE: Appearing on the cover of the special issue on [X-ray diffraction microscopy](http://journals.iucr.org/special_issues/2013/imaging/) of March 2013.
 
 ### Conference Proceedings
 
