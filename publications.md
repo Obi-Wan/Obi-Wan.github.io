@@ -57,7 +57,7 @@ title: Publications
 **2013**
 * P. Reischig, A. King, L. Nervo, **N. Viganò**, Y. Guilhem, W. J. Palenstijn, K. J. Batenburg, M. Preuss, and W. Ludwig, “Advances in X-ray diffraction contrast tomography: flexibility in the setup geometry and application to multiphase materials,” J. Appl. Crystallogr., vol. 46, no. 2, pp. 297–311, Mar. 2013.  
 [https://doi.org/10.1107/S0021889813002604](https://doi.org/10.1107/S0021889813002604)  
-**Note**: <u>Appearing on the cover of the special issue on [X-ray diffraction microscopy](http://journals.iucr.org/special_issues/2013/imaging/) of March 2013</u>
+**Note**: <u>Appearing on the cover of the special issue on X-ray diffraction microscopy of March 2013</u> [http://journals.iucr.org/special_issues/2013/imaging/](http://journals.iucr.org/special_issues/2013/imaging/)
 
 ### Conference Proceedings
 
