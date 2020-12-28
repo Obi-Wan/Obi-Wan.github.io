@@ -12,6 +12,8 @@ permalink: /software/
 Plenoptic imaging reconstruction tools, developed in the context of the VOXEL project, part of the European Union's Horizon 2020 research and innovation programme (VOXEL H2020-FETOPEN-2014-2015-RIA GA 665207).  
 It provides a Python package that allows to read and manipulate light-field images
 
+It contains the code used for the following papers: [J6](publications.md#J6), [J8](publications.md#J8), and [J11](publications.md#J11).
+
 Project page: [https://github.com/cicwi/plenoptomos](https://github.com/cicwi/plenoptomos)  
 Documentation: [https://cicwi.github.io/plenoptomos](https://cicwi.github.io/plenoptomos)  
 
@@ -32,10 +34,7 @@ Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/pr
 
 Physically corrected projectors for X-ray induced emission CT.
 
-It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here:
-
-* **N. Viganò** and V. A. Solé, “Physically corrected forward operators for induced emission tomography: a simulation study,” Meas. Sci. Technol., no. Advanced X-Ray Tomography, pp. 1–26, Nov. 2017.  
-[https://doi.org/10.1088/1361-6501/aa9d54](https://doi.org/10.1088/1361-6501/aa9d54)
+It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here: [J5](publications.md#J5).
 
 Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
 Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
@@ -54,10 +53,7 @@ Documentation: [https://tomotools.gitlab-pages.esrf.fr/nabu/](https://tomotools.
 
 A Python package that implements relaxed multi-levelset segmentation, with tomographically consistent refinement.
 
-It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here:
-
-* H. Der Sarkissian, **N. Viganò**, and K. J. Batenburg, “A Data Consistent Variational Segmentation Approach Suitable for Real-time Tomography,” Fundam. Informaticae, vol. 163, pp. 1–20, 2018.  
-[https://doi.org/10.3233/FI-2018-1729](https://doi.org/10.3233/FI-2018-1729)
+It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here: [C4](publications.md#C4).
 
 Project page: [https://github.com/cicwi/PyRMLSeg](https://github.com/cicwi/PyRMLSeg)  
 Documentation: [https://cicwi.github.io/PyRMLSeg](https://cicwi.github.io/PyRMLSeg)  
