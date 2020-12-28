@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Publications
-  link: /publications.html
+  link: /publications/
 - name: Software
-  link: /software.html
+  link: /software/
 - name: All news
-  link: /all_news.html
+  link: /all_news/

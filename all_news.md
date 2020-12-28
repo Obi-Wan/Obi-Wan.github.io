@@ -1,6 +1,7 @@
 ---
 layout: default
 title: All news
+permalink: /all_news/
 ---
 
 # Categories:
