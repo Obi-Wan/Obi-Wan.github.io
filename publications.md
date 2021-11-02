@@ -23,6 +23,12 @@ permalink: /publications/
 
 ### International peer reviewed journals
 
+**2021**
+* <a name="J13">[J13]</a> A. A. Hendriksen, D. Schut, W. J. Palenstijn, **N. Viganò**, J. Kim, D. Pelt, T. van Leeuwen, and K. J. Batenburg, “Tomosipo: Fast, flexible, and convenient 3D tomography for complex scanning geometries in Python,” Opt. Express, Oct. 2021.  
+[https://doi.org/10.1364/OE.439909](https://doi.org/10.1364/OE.439909)
+* <a name="J12">[J12]</a> A. A. Hendriksen, M. Bührer, L. Leone, M. Merlini, **N. Viganò**, D. M. Pelt, F. Marone, M. di Michiel, and K. J. Batenburg, “Deep denoising for multi-dimensional synchrotron X-ray tomography without high-quality reference data,” Sci. Rep., vol. 11, no. 1, p. 11895, Jun. 2021.  
+[https://doi.org/10.1038/s41598-021-91084-8](https://doi.org/10.1038/s41598-021-91084-8)
+
 **2020**
 * <a name="J11">[J11]</a> **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S.B. Coban, R. van Liere, M. Fajardo, P. Zeitoun and K.J. Batenburg, “Emulation of X-ray Light-Field Cameras,” J. Imaging, vol. 6, no. 12, p. 15, Dec. 2020.  
 [https://doi.org/10.3390/jimaging6120138](https://doi.org/10.3390/jimaging6120138)  

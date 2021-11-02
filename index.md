@@ -50,7 +50,7 @@ ul {font-style: normal}
       <li><i>Cover story</i> of the December 2020 issue of "Journal of Imaging" (MDPI), for the article: <a href="/publications/#J11">[J11]</a>.</li>
       <li>
         Funding for a Ph.D position on "<i>Hard X-ray Ghost Imaging</i>", through the ESRF internal PhD programme.
-        <br/>Position status: <b>currently open</b>, description: available <a href="https://esrf.gestmax.eu/1460/1/phd-student-som-tomo/en_US">here</a>.
+        <br/>Position status: <b>closed</b>.
       </li>
     </ul>
   </dd>
