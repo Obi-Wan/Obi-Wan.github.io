@@ -1,8 +1,16 @@
-- name: Home
-  link: /
-- name: Publications
-  link: /publications/
-- name: Software
-  link: /software/
-- name: All news
-  link: /all_news/
+main:
+  - title: "Publications"
+    url: /publications/
+    description: "Nicola's publications"
+  - title: "Software"
+    url: /software/
+    description: "Nicola's software"
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+    description: "Nicola's biography"

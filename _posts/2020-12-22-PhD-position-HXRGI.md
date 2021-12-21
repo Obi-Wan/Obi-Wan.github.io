@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Open position on Hard X-ray Ghost Imaging!
 date: 2020-12-22 12:00:00 -0000
 categories: [ghost-imaging, positions]

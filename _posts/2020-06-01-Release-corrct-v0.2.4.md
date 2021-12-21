@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PyCorrectedEmissionCT v0.2.4 Released!
 date: 2020-06-01 23:00:00 -0000
 categories: [releases, PyCorrectedEmissionCT]

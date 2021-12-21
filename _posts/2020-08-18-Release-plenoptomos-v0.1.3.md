@@ -1,5 +1,4 @@
 ---
-layout: post
 title: plenoptomos v0.1.3 Released!
 date: 2020-08-18 12:00:00 -0000
 categories: [releases, plenoptomos]

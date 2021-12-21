@@ -1,8 +1,26 @@
 ---
-layout: default
-title: Software
+title: "Software"
 permalink: /software/
+layout: single
+
+classes: wide
+toc: true
+toc_label: "List of projects:"
+toc_icon: code
 ---
+
+## PyCorrectedEmissionCT
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cicwi/PyCorrectedEmissionCT)
+![License](https://img.shields.io/github/license/cicwi/PyCorrectedEmissionCT)
+[![DOI](https://zenodo.org/badge/218092017.svg)](https://zenodo.org/badge/latestdoi/218092017)
+![Python package](https://github.com/cicwi/PyCorrectedEmissionCT/actions/workflows/pythonpackage.yml/badge.svg)
+
+Physically corrected projectors for X-ray induced emission CT.
+
+It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here: [J5](publications.md#J5).
+
+Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
+Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
 
 ## plenoptomos
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cicwi/plenoptomos)
@@ -25,19 +43,6 @@ I started contributing to the DCT code in Nov 2011, as part of my PhD project, f
 My most significant contributions are represented by the 6D grain reconstruction algorithms and code.
 
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
-
-## PyCorrectedEmissionCT
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cicwi/PyCorrectedEmissionCT)
-![License](https://img.shields.io/github/license/cicwi/PyCorrectedEmissionCT)
-[![DOI](https://zenodo.org/badge/218092017.svg)](https://zenodo.org/badge/latestdoi/218092017)
-![Python Package using Anaconda](https://github.com/cicwi/PyCorrectedEmissionCT/workflows/Python%20Package%20using%20Anaconda/badge.svg)
-
-Physically corrected projectors for X-ray induced emission CT.
-
-It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here: [J5](publications.md#J5).
-
-Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
-Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
 
 ## Nabu
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

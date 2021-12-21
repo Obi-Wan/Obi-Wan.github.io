@@ -1,36 +1,23 @@
 ---
-layout: default
-title: Publications
+title: "Publications"
 permalink: /publications/
+layout: single
+
+classes: wide
+toc: true
+toc_label: "Publication categories:"
 ---
 
-## Links
-
-* ORCID: [0000-0003-1704-5574](https://orcid.org/0000-0003-1704-5574)  
-* Web of Science ID: [T-4608-2019](https://publons.com/researcher/T-4608-2019/)  
-* Researchgate: [profile](https://www.researchgate.net/profile/Nicola_Vigano)
-* Google scholar: [profile](https://scholar.google.com/citations?user=qv5XoaYAAAAJ)
-
-## Complete list of published datasets
-
-**2020**
-* <a name="D2">[D2]</a> **N. R. Viganò** and S. B. Coban, “X-ray light-field - Small branch.” 2020.  
-[https://doi.org/10.5281/zenodo.4017593](https://doi.org/10.5281/zenodo.4017593)
-* <a name="D1">[D1]</a> **N. R. Viganò**, F. Lucka, and S. B. Coban, “X-ray light-field - Gel bubbles.” 2020.  
-[https://doi.org/10.5281/zenodo.4017719](https://doi.org/10.5281/zenodo.4017719)
-
-## Complete list of publications
-
-### International peer reviewed journals
+## International peer reviewed journals
 
 **2021**
-* <a name="J13">[J13]</a> A. A. Hendriksen, D. Schut, W. J. Palenstijn, **N. Viganò**, J. Kim, D. Pelt, T. van Leeuwen, and K. J. Batenburg, “Tomosipo: Fast, flexible, and convenient 3D tomography for complex scanning geometries in Python,” Opt. Express, Oct. 2021.  
+* <a name="J13">[J13]</a> A. A. Hendriksen, D. Schut, W. J. Palenstijn, **N. Viganò**, J. Kim, D. M. Pelt, T. van Leeuwen, and K. J. Batenburg, “Tomosipo: Fast, flexible, and convenient 3D tomography for complex scanning geometries in Python,” Opt. Express, vol. 29, no. 24, p. 40494, Nov. 2021.  
 [https://doi.org/10.1364/OE.439909](https://doi.org/10.1364/OE.439909)
 * <a name="J12">[J12]</a> A. A. Hendriksen, M. Bührer, L. Leone, M. Merlini, **N. Viganò**, D. M. Pelt, F. Marone, M. di Michiel, and K. J. Batenburg, “Deep denoising for multi-dimensional synchrotron X-ray tomography without high-quality reference data,” Sci. Rep., vol. 11, no. 1, p. 11895, Jun. 2021.  
 [https://doi.org/10.1038/s41598-021-91084-8](https://doi.org/10.1038/s41598-021-91084-8)
 
 **2020**
-* <a name="J11">[J11]</a> **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S.B. Coban, R. van Liere, M. Fajardo, P. Zeitoun and K.J. Batenburg, “Emulation of X-ray Light-Field Cameras,” J. Imaging, vol. 6, no. 12, p. 15, Dec. 2020.  
+* <a name="J11">[J11]</a> **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S. B. Coban, R. van Liere, M. Fajardo, P. Zeitoun and K.J. Batenburg, “Emulation of X-ray Light-Field Cameras,” J. Imaging, vol. 6, no. 12, p. 15, Dec. 2020.  
 [https://doi.org/10.3390/jimaging6120138](https://doi.org/10.3390/jimaging6120138)  
 **Note**: <u>Cover story of the December 2020 issue</u>: [https://www.mdpi.com/2313-433X/6/12](https://www.mdpi.com/2313-433X/6/12)
 * <a name="J10">[J10]</a> **N. Viganò** and W. Ludwig, “X-ray orientation microscopy using topo-tomography and multi-mode diffraction contrast tomography,” Curr. Opin. Solid State Mater. Sci., vol. 24, no. 4, p. 100832, Aug. 2020.  
@@ -65,9 +52,17 @@ permalink: /publications/
 **2013**
 * <a name="J1">[J1]</a> P. Reischig, A. King, L. Nervo, **N. Viganò**, Y. Guilhem, W. J. Palenstijn, K. J. Batenburg, M. Preuss, and W. Ludwig, “Advances in X-ray diffraction contrast tomography: flexibility in the setup geometry and application to multiphase materials,” J. Appl. Crystallogr., vol. 46, no. 2, pp. 297–311, Mar. 2013.  
 [https://doi.org/10.1107/S0021889813002604](https://doi.org/10.1107/S0021889813002604)  
-**Note**: <u>Appearing on the cover of the special issue on X-ray diffraction microscopy of March 2013</u>: [http://journals.iucr.org/special_issues/2013/imaging/](http://journals.iucr.org/special_issues/2013/imaging/)
+**Note**: <u>Cover story of the special issue on X-ray diffraction microscopy of March 2013</u>: [http://journals.iucr.org/special_issues/2013/imaging/](http://journals.iucr.org/special_issues/2013/imaging/)
 
-### Conference Proceedings
+## Conference Proceedings
+
+**2021**
+* <a name="C7">[C7]</a> P. Harrison, X. Zhou, M. Das Saurabh, **N. Viganò**, P. Lhuissier, M. Herbig, W. Ludwig, and E. Rauch, “Reconstructing grains in 3D through 4D Scanning Precession Electron Diffraction,” Microsc. Microanal., vol. 27, no. S1, pp. 2494–2495, Aug. 2021.  
+[http://doi.org/10.1017/S1431927621008898](http://doi.org/10.1017/S1431927621008898)
+* <a name="C6">[C6]</a> **N. Viganò**, P. Cloetens, M. Di Michiel, A. Rack, and P. Tafforeau, “Redefining the ESRF tomography software,” in OSA Imaging and Applied Optics Congress, 2021.  
+[http://doi.org/10.1364/DH.2021.DF2G.4](http://doi.org/10.1364/DH.2021.DF2G.4)
+* <a name="C5">[C5]</a> **N. Viganò**, F. Lucka, O. de La Rochefoucauld, S. B. Coban, R. van Liere, M. Fajardo, P. Zeitoun, and K. J. Batenburg, “Towards X-ray Plenoptic Imaging: Emulation with a Laboratory X-ray Scanner,” in OSA Imaging and Applied Optics Congress, 2021.  
+[http://doi.org/10.1364/DH.2021.DTh4F.2](http://doi.org/10.1364/DH.2021.DTh4F.2)
 
 **2018**
 * <a name="C4">[C4]</a> H. Der Sarkissian, **N. Viganò**, and K. J. Batenburg, “A Data Consistent Variational Segmentation Approach Suitable for Real-time Tomography,” Fundam. Informaticae, vol. 163, pp. 1–20, 2018.  
@@ -84,3 +79,10 @@ permalink: /publications/
 [https://doi.org/10.1109/ISPA.2013.6703809](https://doi.org/10.1109/ISPA.2013.6703809)  
 **NOTE**: <u>Winner of "<i>Best Paper Award</i>" at ISISPA2013</u>
 
+## Datasets
+
+**2020**
+* <a name="D2">[D2]</a> **N. R. Viganò** and S. B. Coban, “X-ray light-field - Small branch.” 2020.  
+[https://doi.org/10.5281/zenodo.4017593](https://doi.org/10.5281/zenodo.4017593)
+* <a name="D1">[D1]</a> **N. R. Viganò**, F. Lucka, and S. B. Coban, “X-ray light-field - Gel bubbles.” 2020.  
+[https://doi.org/10.5281/zenodo.4017719](https://doi.org/10.5281/zenodo.4017719)
