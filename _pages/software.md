@@ -18,6 +18,7 @@ toc_icon: code
 Physically corrected projectors for X-ray induced emission CT.
 
 It contains the code used for the following paper, which also provides a mathematical description of the concepts and algorithms used here: [J5](publications.md#J5).
+It was used for the self-attenuation correction of [J9](publications.md#J9).
 
 Project page: [https://github.com/cicwi/PyCorrectedEmissionCT](https://github.com/cicwi/PyCorrectedEmissionCT)  
 Documentation: [https://cicwi.github.io/PyCorrectedEmissionCT/](https://cicwi.github.io/PyCorrectedEmissionCT/)
@@ -41,6 +42,8 @@ Diffraction Contrast Tomography (DCT) reconstruction software.
 It provides a set of matlab functions and GUIs that allow to ingest, process and reconstruct DCT scans (mainly acquired at ESRF - The European Synchrotron).  
 I started contributing to the DCT code in Nov 2011, as part of my PhD project, founded by the French research agency ANR (ANR 2010 BLAN 0935).
 My most significant contributions are represented by the 6D grain reconstruction algorithms and code.
+
+It contains the code used for the following papers: [J1](publications.md#J1), [J2](publications.md#J2), [J3](publications.md#J3), [J4](publications.md#J4), [J10](publications.md#J10), [C1](publications.md#C1), and [C2](publications.md#C2).
 
 Project page: [https://sourceforge.net/projects/dct/](https://sourceforge.net/projects/dct/)  
 
