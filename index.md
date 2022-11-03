@@ -27,28 +27,41 @@ classes: wide
 ul {font-style: normal}
 </style>
 
-<dl>
-  <dt>2020</dt>
-  <dd>
-    <ul>
-      <li><i>Cover story</i> of the December 2020 issue of "Journal of Imaging" (MDPI), for the article: <a href="/publications/#J11">[J11]</a>.</li>
-      <li>
-        Funding for a Ph.D position on "<i>Hard X-ray Ghost Imaging</i>", through the ESRF internal PhD programme.
-        <br/>Position status: <b>closed</b>.
-      </li>
-    </ul>
-  </dd>
-  <dt>2018</dt>
-  <dd>
-    <ul>
-      <li>NVIDIA GPU grant: donation of a TITAN Xp card by NVIDIA (Santa Clara, CA, USA).</li>
-    </ul>
-  </dd>
-  <dt>2013</dt>
-  <dd>
-    <ul>
-      <li><i>Best Paper Award</i> at ISISPA2013, for the article: <a href="/publications/#C1">[C1]</a>.</li>
-    </ul>
-  </dd>
-</dl>
+2020
+: <ul>
+    <li><i>Cover story</i> of the December 2020 issue of "Journal of Imaging" (MDPI), for the article: <a href="/publications/#J11">[J11]</a>.</li>
+    <li>
+      Funding for a Ph.D position on "<i>Hard X-ray Ghost Imaging</i>", through the ESRF internal PhD programme.
+      <br/>Position status: <b>closed</b>.
+    </li>
+  </ul>
 
+2018
+: <ul>
+    <li>NVIDIA GPU grant: donation of a TITAN Xp card by NVIDIA (Santa Clara, CA, USA).</li>
+  </ul>
+
+2013
+: <ul>
+    <li><i>Best Paper Award</i> at ISISPA2013, for the article: <a href="/publications/#C1">[C1]</a>.</li>
+  </ul>
+
+<h3 class="archive__subtitle">Invited speaker</h3>
+
+2022
+: <ul>
+    <li><i>"Self-supervised deep-denoising methods for tomography and imaging"</i><br>
+    Biophysics and Biophotonics group, Physics dept., University of Milano-Bicocca, Milano, Italy.</li>
+  </ul>
+
+2020
+: <ul>
+    <li><i>"Orientation imaging at the onset of plastic deformation"</i><br>
+    Laboratoire d’Etude des Microstructures (LEM), CNRS / ONERA, Paris, France.</li>
+  </ul>
+
+2014
+: <ul>
+    <li><i>"Discrete Representation of Local Orientation in Grains using Diffraction Contrast Tomography"</i><br>
+    Meeting on Tomography and Applications (TAIR), Mathematics dept., Politecnico di Milano, Milano, Italy.</li>
+  </ul>
