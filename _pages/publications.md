@@ -10,6 +10,10 @@ toc_label: "Publication categories:"
 
 ## International peer reviewed journals
 
+**2022**
+* <a name="J14">[J14]</a> E. Longo, D. Alj, K. J. Batenburg, O. de La Rochefoucauld, C. Herzog, I. Greving, Y. Li, M. Lyubomirskiy, K. V. Falch, P. Estrela, S. Flenner, **N. Viganò**, M. Fajardo, and P. Zeitoun, “Flexible Plenoptic X-ray Microscopy,” Photonics, vol. 9, no. 2, p. 98, Feb. 2022.
+[https://doi.org/10.3390/photonics9020098](https://doi.org/10.3390/photonics9020098)
+
 **2021**
 * <a name="J13">[J13]</a> A. A. Hendriksen, D. Schut, W. J. Palenstijn, **N. Viganò**, J. Kim, D. M. Pelt, T. van Leeuwen, and K. J. Batenburg, “Tomosipo: Fast, flexible, and convenient 3D tomography for complex scanning geometries in Python,” Opt. Express, vol. 29, no. 24, p. 40494, Nov. 2021.
 [https://doi.org/10.1364/OE.439909](https://doi.org/10.1364/OE.439909)
@@ -55,6 +59,12 @@ toc_label: "Publication categories:"
 **Note**: <u>Cover story of the special issue on X-ray diffraction microscopy of March 2013</u>: [http://journals.iucr.org/special_issues/2013/imaging/](http://journals.iucr.org/special_issues/2013/imaging/)
 
 ## Conference Proceedings
+
+**2022**
+* <a name="C9">[C9]</a> P. Resende, **N. Viganò**, D. Bardel, J. Réthoré, and W. Ludwig, “Advanced time-resolved characterization of Stress Assisted Grain Boundary Oxidation of 718 Ni superalloy,” IOP Conference Series: Materials Science and Engineering, vol. 1249, no. 1, pp. 012046, Jul. 2022.
+[http://doi.org/10.1088/1757-899X/1249/1/012046](http://doi.org/10.1088/1757-899X/1249/1/012046)
+* <a name="C8">[C8]</a> Z. Liu, **N. Viganò**, and W. Ludwig, “Challenges related to tomographic reconstruction of 3D intragranular orientation fields in the presence of orientation relationships,” IOP Conference Series: Materials Science and Engineering, vol. 1249, no. 1, pp. 012030, Jul. 2022.
+[http://doi.org/10.1088/1757-899X/1249/1/012030](http://doi.org/10.1088/1757-899X/1249/1/012030)
 
 **2021**
 * <a name="C7">[C7]</a> P. Harrison, X. Zhou, M. Das Saurabh, **N. Viganò**, P. Lhuissier, M. Herbig, W. Ludwig, and E. Rauch, “Reconstructing grains in 3D through 4D Scanning Precession Electron Diffraction,” Microsc. Microanal., vol. 27, no. S1, pp. 2494–2495, Aug. 2021.
