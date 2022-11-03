@@ -1,6 +1,6 @@
 ---
 title: PyCorrectedEmissionCT v0.2.2 Released!
-date: 2020-03-30 23:00:00 -0000
+date: 2020-03-30 20:37:30 -0000
 categories: [releases, PyCorrectedEmissionCT]
 tags: [tomography, XRF-CT, XRD-CT]
 
