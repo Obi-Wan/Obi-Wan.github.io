@@ -48,6 +48,35 @@ ul {font-style: normal}
 
 <h3 class="archive__subtitle">Invited speaker</h3>
 
+2024
+: <ul>
+    <li>
+      <i>"Synhcrotron-based X-ray fluorescence ghost imaging: From acquisition to reconstruction"</i><br>
+      GIPSA-lab, Université Grenoble Alpes, Grenoble, France.
+    </li>
+    <li>
+      <i>"A modern and (very) incomplete history of signal processing"</i><br>
+      SF&Mu; Junior, Grenoble, France.
+    </li>
+    <li>
+      <i>"Synchrotron-Based X-Ray Fluorescence Ghost Imaging "</i>, retracted<br>
+      RadIt, Optica Imaging &amp; Sensing Congress, Toulouse, France.
+    </li>
+  </ul>
+
+2023
+: <ul>
+    <li>
+      <i>"An introduction to: Ghost Imaging"</i><br>
+      A small tutorial, with a glimpse of future perspectives<br>
+      Xnovotech, Køge, Denmark.
+    </li>
+    <li>
+      <i>"The tomo-bridge: challenges, opportunities, and path of our journey"</i><br>
+      Center for Quantification of Imaging Data (QIM), DTU Compute, Copenhagen, Denmark.
+    </li>
+  </ul>
+
 2022
 : <ul>
     <li><i>"Self-supervised deep-denoising methods for tomography and imaging"</i><br>

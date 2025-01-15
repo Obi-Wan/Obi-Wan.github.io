@@ -7,10 +7,8 @@ import json
 
 import datetime as dt
 
-from typing import List, Dict
 
-
-def fetch_repo(repo: str) -> List[Dict]:
+def fetch_repo(repo: str) -> list[dict]:
     # cmd = ["gh", "auth", "login"]
     # process = sp.run(cmd, stderr=sp.STDOUT)
     cmd = ["gh", "api", "-H", "Accept: application/vnd.github+json", f"repos/{repo}/releases"]
@@ -18,7 +16,7 @@ def fetch_repo(repo: str) -> List[Dict]:
     return json.loads(process.stdout)
 
 
-def generate_blog_entry(repo: str, release_tag: str, date: str, topic_tags: List[str]) -> str:
+def generate_blog_entry(repo: str, release_tag: str, date: str, topic_tags: list[str]) -> str:
     owner_name, repo_name = repo.split("/")
     tag_no_v = release_tag.replace("v", "")
     # d = dt.datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")

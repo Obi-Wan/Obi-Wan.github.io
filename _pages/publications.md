@@ -10,6 +10,10 @@ toc_label: "Publication categories:"
 
 ## International peer reviewed journals
 
+**2023**
+* <a name="J15">[J15]</a> M. Manni, A. Ben-Yehuda, Y. Klein, B. Lukic, A. Kingston, A. Rack, S. Shwartz, and **N. Viganò**, “Synchrotron-based X-ray Fluorescence Ghost Imaging,” Opt. Lett., vol. 48, no. 23, pp. 6271–6274, 2023.
+[https://doi.org/10.1364/ol.499046](https://doi.org/10.1364/ol.499046)
+
 **2022**
 * <a name="J14">[J14]</a> E. Longo, D. Alj, K. J. Batenburg, O. de La Rochefoucauld, C. Herzog, I. Greving, Y. Li, M. Lyubomirskiy, K. V. Falch, P. Estrela, S. Flenner, **N. Viganò**, M. Fajardo, and P. Zeitoun, “Flexible Plenoptic X-ray Microscopy,” Photonics, vol. 9, no. 2, p. 98, Feb. 2022.
 [https://doi.org/10.3390/photonics9020098](https://doi.org/10.3390/photonics9020098)

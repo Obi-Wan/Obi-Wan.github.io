@@ -22,8 +22,11 @@ years at Univerité Joseph Fourier (UJF, Grenoble, France, now renamed to UGA).
 From July 2016 until March 2019 he was a Post-doc in the Computational Imaging
 (CI) group of Prof. K. Joost Batenburg, at the Centrum Wiskunde & Informatica
 (CWI, Amsterdam, The Netherlands).  
-He now works as a scientist in the Experiment Division (EXPD) of the ESRF - The
-European Synchrotron, since April 2019.
-He is in charge of coordinating the tomography software developments for both
+He then worked as a scientist in the Experiment Division (EXPD) of the ESRF - The
+European Synchrotron, from April 2019 until April 2023.
+He was in charge of coordinating the tomography software developments for both
 data acquisition and processing, for all the ESRF beamlines
 ([tomo-bridge](https://tomotools.gitlab-pages.esrf.fr/tomo-bridge-docs/)).
+
+As of May 2023, he is now a research engineer at CEA-IRIG (Grenoble, France), in
+the LEMMA laboratory.
