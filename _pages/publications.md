@@ -10,8 +10,11 @@ toc_label: "Publication categories:"
 
 ## International peer reviewed journals
 
+**2024**
+* <a name="J16">[J16]</a> P. Harrison, S. M. Das, W. Goncalves, A. da Silva, X. Chen, **N. Viganò**, C. H. Liebscher, W. Ludwig, X. Zhou, and E. F. Rauch, “Determination of five-parameter grain boundary characteristics in nanocrystalline Ni-W by scanning precession electron diffraction tomography,” Ultramicroscopy, vol. 267, p. 114038, Dec. 2024. [https://doi.org/10.1016/j.ultramic.2024.114038](https://doi.org/10.1016/j.ultramic.2024.114038)
+
 **2023**
-* <a name="J15">[J15]</a> M. Manni, A. Ben-Yehuda, Y. Klein, B. Lukic, A. Kingston, A. Rack, S. Shwartz, and **N. Viganò**, “Synchrotron-based X-ray Fluorescence Ghost Imaging,” Opt. Lett., vol. 48, no. 23, pp. 6271–6274, 2023.
+* <a name="J15">[J15]</a> M. Manni, A. Ben-Yehuda, Y. Klein, B. Lukic, A. Kingston, A. Rack, S. Shwartz, and **N. Viganò**, “Synchrotron-based X-ray Fluorescence Ghost Imaging,” Opt. Lett., vol. 48, no. 23, pp. 6271–6274, Nov. 2023.
 [https://doi.org/10.1364/ol.499046](https://doi.org/10.1364/ol.499046)
 
 **2022**
@@ -94,6 +97,10 @@ toc_label: "Publication categories:"
 **Note**: <u>Winner of "<i>Best Paper Award</i>" at ISISPA2013</u>
 
 ## Datasets
+
+**2023**
+* <a name="D3">[D3]</a> M. Manni and **N. R. Viganò**, “X-ray Fluorescence Ghost Imaging - CuSn mask - Three Wires (Fe & Cu).” 2023.
+[https://doi.org/10.5281/zenodo.7828494](https://doi.org/10.5281/zenodo.7828494)
 
 **2020**
 * <a name="D2">[D2]</a> **N. R. Viganò** and S. B. Coban, “X-ray light-field - Small branch.” 2020.
