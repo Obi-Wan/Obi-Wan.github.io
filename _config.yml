@@ -145,10 +145,13 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /posts/by_category/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /posts/by_tag/
+year_archive:
+  type: liquid
+  path: /posts/by_year/
 
 # Markdown Processing
 kramdown:
