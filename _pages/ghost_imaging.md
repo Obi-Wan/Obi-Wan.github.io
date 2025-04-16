@@ -4,6 +4,8 @@ permalink: /ghost_imaging/
 layout: single
 
 classes: wide
+toc: true
+toc_label: "Sections:"
 tags: [ghost-imaging, hard x-ray, x-ray fluorescence, XRF-GI]
 ---
 
@@ -23,12 +25,17 @@ to encode the spatial information in the acquired GI signals.
 
 ## Why is ghost imaging so interesting?
 
-Develop the following points:
-- A new paradigm that offers a tradeoff between resolution, measuring time and dose.
-- Can be pushed to very high compressions (i.e. very few realizations compared to number of pixels) -> fast and low dose acquisitions
-- It enables resolving scattering signals, which would otherwise require either focusing the beam (which is increasingly hard) or using collimators (which BTW through away most of the emitted photons)
-- By illuminating larger regions of the sample at once, we can track the sample drifts during the acquisition (which is not available in some acquisitions, e.g. traditional XRF imaging)
-- We can push a technique's resolution beyond the focus or pixel limits.
+Ghost imaging (GI) presents a few attractive advantages.
+
+**Tradeoff Between Resolution, Measuring Time, and Dose**: GI offers a tradeoff between resolution, measuring time, and dose. This makes it particularly useful for applications where minimizing radiation exposure or acquisition time is critical.
+
+**High Compression and Efficiency**: GI can achieve high compression rates (e.g., 10x or 20x), meaning it requires significantly fewer realizations compared to the number of pixels. This results in faster and lower-dose acquisitions, enhancing efficiency and reducing potential damage to samples.
+
+**Resolving Scattering Signals**: GI enables the resolution of scattering signals without the need for focusing the beam, which could become technically challenging, or using collimators, which often waste a significant portion of the emitted photons.
+
+**Tracking Sample Drifts**: By illuminating larger regions of the sample at once, GI allows for the tracking of sample drifts during acquisition. This is a significant advantage over traditional imaging techniques, such as X-ray fluorescence (XRF) imaging, where we only illuminate a point-like region of the sample at a time.
+
+**Enhanced Resolution**: GI can push the resolution of imaging techniques beyond the limits imposed by the focus or pixel size of conventional detectors.
 
 ## X-ray fluorescence ghost imaging
 
