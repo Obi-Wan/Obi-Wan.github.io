@@ -5,6 +5,9 @@ main:
   - title: "Software"
     url: /software/
     description: "Nicola's software"
+  - title: "Ghost Imaging"
+    url: /ghost_imaging/
+    description: "Nicola's current projects"
   - title: "Posts"
     url: /posts/by_year/
     description: "Nicola's blog posts"
